@@ -86,8 +86,6 @@ color:var(--text-color);
 .site-header-light {
   margin-right: 10px;
 }
-.site-header-dark {
-}
 
 .author {
   display: flex;
